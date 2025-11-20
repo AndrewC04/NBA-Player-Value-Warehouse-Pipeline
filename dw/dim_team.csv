@@ -1,0 +1,34 @@
+team_key,team_name,conference
+ATL,Atlanta Hawks,East
+BOS,Boston Celtics,East
+BRK,Brooklyn Nets,East
+CHA,Charlotte Hornets,East
+CHI,Chicago Bulls,East
+CLE,Cleveland Cavaliers,East
+DAL,Dallas Mavericks,West
+DEN,Denver Nuggets,West
+DET,Detroit Pistons,East
+GSW,Golden State Warriors,West
+HOU,Houston Rockets,West
+IND,Indiana Pacers,East
+LAC,Los Angeles Clippers,West
+LAL,Los Angeles Lakers,West
+MEM,Memphis Grizzlies,West
+MIA,Miami Heat,East
+MIL,Milwaukee Bucks,East
+MIN,Minnesota Timberwolves,West
+NOP,New Orleans Pelicans,West
+NYK,New York Knicks,East
+OKC,Oklahoma City Thunder,West
+ORL,Orlando Magic,East
+PHI,Philadelphia 76ers,East
+PHX,Phoenix Suns,West
+POR,Portland Trail Blazers,West
+SAC,Sacramento Kings,West
+SAS,San Antonio Spurs,West
+TOR,Toronto Raptors,East
+UTA,Utah Jazz,West
+WAS,Washington Wizards,East
+2TM,2 Teams,N/A
+3TM,3 Teams,N/A
+4TM,4 Teams,N/A
