@@ -60,7 +60,6 @@ This project quantifies NBA player salaries and their actual on court performanc
 
 ## Key Insights / Takeaways
 - Players with consistently high impact metrics, such as Alex Caruso, were able to stand out in deserved salary, even when their statistics gave them a low score ("Value" column measure).
-- Mid level players (mid level contracts) often show the largest salary gaps because role player contracts fluctuate more than their performance.
 - Rookie scale contract players who posted solid to strong advanced metrics were major value drivers, especially for teams like the Thunder and Grizzlies that stacked multiple underpaid contributors.
 - The regression model reliably explains salary variation and highlights outliers whose performance far exceeds or falls below their pay grade based on comparisons from actual salary and deserved salary to observe the salary difference.
 
