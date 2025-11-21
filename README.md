@@ -34,7 +34,7 @@ This project quantifies NBA player salaries and their actual on court performanc
 
         - The following equation was used to classify player salaries:
         ```gap_pct = (Actual Salary – Predicted Salary) / Predicted Salary```
-        - This provided a certain percent to which we considered any percent in between and including -15% and 15% as "fair value". Any gap percent less than -15% was classified as underpaid and any gap percent greater than was classified as overpaid. 
+        - This provided a certain percent to which we considered any percent in between and including -15% and 15% as "fair value". Any gap percent less than -15% was classified as underpaid and any gap percent greater than 15% was classified as overpaid. 
 
 3. **ETL Pipeline Overview**
     - The ETL process was necessary to clean up inconsistencies in column names, mismatching team and player spellings, missing values, duplicated rows (from players being traded midseason), and different season years outside of the previous 5 year interval before loading anything into Amazon Redshift.
