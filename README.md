@@ -1,4 +1,7 @@
 # NBA Player Value Warehouse Pipeline
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/NBAPlayerValueModel/PlayerDashboardFinal?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview 
 
 This project quantifies NBA player salaries and their actual on court performance to assess "fair value" based on advanced statistics and historical salary data of the last 5 NBA seasons (2020-21 to 2024-25). By combining performance metrics with regression analysis, the goal of this project is to demonstrate a full data engineering workflow to enhance decision making processes through a data driven valuation tool that evaluates a player's value, supports salary projections, and provides interactive visual insights.
